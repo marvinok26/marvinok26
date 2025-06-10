@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/marvinok26](https://github.com/marvinok26)
 
-- 💬 Ask me about **React, MERN, Python**
+- 💬 Ask me about **DevOps, MERN, Python, PHP**
 
 - 📫 How to reach me **okongomarvin971@gmail.com**
 
