@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://marvin-portfolio-roan.vercel.app/">
-    <img src="https://cdn.pixabay.com/photo/2024/03/18/10/50/ai-generated-8640895_960_720.jpg" alt="MasterHead" width="600" height="450">
+    <img src="[https://cdn.pixabay.com/photo/2024/03/18/10/50/ai-generated-8640895_960_720.jpg](https://www.freepik.com/premium-ai-image/devops-web-development-operations-intertwined-infinity-symbol-design-concept-devops-web-development-operations-infinity-design_257473648.htm#fromView=search&page=1&position=41&uuid=a3644de2-ac60-412f-85b6-5dbd5cd1be15&query=aws+Devops)" alt="MasterHead" width="600" height="450">
   </a>
 </div>
 <h1 align="center">Hi 👋, I'm Marvin Okongo</h1>
@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/arvin_codes" target="blank"><img src="https://img.shields.io/twitter/follow/arvin_codes?logo=twitter&style=for-the-badge" alt="arvin_codes" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **AI, LLMs, Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/marvinok26](https://github.com/marvinok26)
 
