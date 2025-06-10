@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://marvin-portfolio-roan.vercel.app/">
-    <img src="https://www.freepik.com/premium-ai-image/devops-web-development-operations-intertwined-infinity-symbol-design-concept-devops-web-development-operations-infinity-design_257473648.htm#fromView=search&page=1&position=41&uuid=a3644de2-ac60-412f-85b6-5dbd5cd1be15&query=aws+Devops" alt="MasterHead" width="600" height="450">
+    <img src="https://www.freepik.com/free-vector/gradient-devops-illustration_25225448.htm#fromView=keyword&page=1&position=2&uuid=e990a83c-ffd0-4ad1-a62a-3ff2ceb060fc&query=Devops" alt="MasterHead" width="600" height="450">
   </a>
 </div>
 <h1 align="center">Hi 👋, I'm Marvin Okongo</h1>
