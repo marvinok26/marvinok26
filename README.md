@@ -5,7 +5,7 @@
 </div>
 <h1 align="center">Hi 👋, I'm Marvin Okongo</h1>
 <h3 align="center">A passionate Full-stack developer from Kenya</h3>
-<img src="https://cdn.pixabay.com/photo/2024/03/18/10/50/ai-generated-8640895_960_720.jpg" align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
+<img src="https://cdn.pixabay.com/photo/2019/10/07/10/30/programming-4532296_1280.jpg" align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
 
 <p align="left"> <a href="https://twitter.com/arvin_codes" target="blank"><img src="https://img.shields.io/twitter/follow/arvin_codes?logo=twitter&style=for-the-badge" alt="arvin_codes" /></a> </p>
 
