@@ -3,15 +3,18 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
-    - cron: '30 18 * * *'  # Fixed: removed extra asterisk
+    - cron: '0 0 * * *'
 
 jobs:
   update-readme:
-    name: Update this repo's README
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3  # Added checkout step
-      - uses: athul/waka-readme@master
+      - name: Checkout
+        uses: actions/checkout@v4
+        
+      - name: Update README
+        uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_EDITORS: "True"
