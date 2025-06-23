@@ -182,7 +182,7 @@ No activity tracked
   
 ### 🎯 *"Building the future, one commit at a time!"*
 
-![Snake Animation](https://raw.githubusercontent.com/marvinok26/marvinok26/output/snake.svg)
+![Snake Animation](https://raw.githubusercontent.com/marvinok26/marvinok26/output/github-snake.svg)
 
 </div>
 
