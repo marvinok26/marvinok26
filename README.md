@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.pinimg.com/736x/f9/9f/9d/f99f9d7c93554c6bd79cdd472a377a6e.jpg" alt="Header Image" width="100%" height="300" style="border-radius: 15px; object-fit: cover;" />
+  <img src="https://i.pinimg.com/736x/f9/9f/9d/f99f9d7c93554c6bd79cdd472a377a6e.jpg" alt="Header Image" width="1000" height="400" />
 </div>
 
 <br/>
