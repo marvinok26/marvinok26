@@ -95,21 +95,16 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=marvinok26&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvinok26&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marvinok26&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvinok26&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-<br/>
-
 <div align="center">
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=marvinok26&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img width="390" src="https://github-readme-stats.vercel.app/api/wakatime?username=marvinok26&theme=tokyonight&hide_border=true" alt="WakaTime Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marvinok26&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-<br/>
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marvinok26&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marvinok26&theme=tokyo-night" alt="Activity Graph" />
 </div>
 
 ---
@@ -117,47 +112,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=marvinok26&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
-</div>
-
----
-
-## 📈 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-💻 This week I spent my time on:
-
-JavaScript   12 hrs 30 mins  ████████████░░░░░░░░░░░░░   40.5%
-Python       8 hrs 15 mins   ██████████░░░░░░░░░░░░░░░   26.8%
-TypeScript   4 hrs 45 mins   ████████░░░░░░░░░░░░░░░░░   15.4%
-PHP          3 hrs 20 mins   ██████░░░░░░░░░░░░░░░░░░░   10.8%
-Other        2 hrs 5 mins    ████░░░░░░░░░░░░░░░░░░░░░    6.5%
-
-🔥 Editors:
-VS Code      25 hrs 45 mins  ████████████████████████░   83.5%
-PHPStorm     3 hrs 20 mins   ██████░░░░░░░░░░░░░░░░░░░   10.8%
-Vim          1 hr 45 mins    ████░░░░░░░░░░░░░░░░░░░░░    5.7%
-
-💻 Operating Systems:
-Linux        20 hrs 30 mins  ████████████████████░░░░░   66.4%
-Windows      7 hrs 15 mins   ████████░░░░░░░░░░░░░░░░░   23.5%
-macOS        3 hrs 5 mins    ██████░░░░░░░░░░░░░░░░░░░   10.1%
-```
-<!--END_SECTION:waka-->
-
----
-
-## 💼 Featured Projects
-
-<div align="center">
-
-| 🚀 **Crypto Site** | 🎨 **Marvin's Portfolio** |
-| --- | --- |
-| [![Crypto Site](https://github-readme-stats.vercel.app/api/pin/?username=marvinok26&repo=Crypto-site&theme=tokyonight&hide_border=true)](https://github.com/marvinok26/Crypto-site) | [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=marvinok26&repo=portfolio4&theme=tokyonight&hide_border=true)](https://github.com/marvinok26/portfolio4) |
-| 🌐 **[Live Demo](https://crypto-site-tau.vercel.app/)** | 🌐 **[Live Demo](https://marvin-portfolio-roan.vercel.app/)** |
-| A modern cryptocurrency tracking platform with real-time data and interactive charts | My personal portfolio showcasing projects, skills, and professional journey |
-
+  <img src="https://github-profile-trophy.vercel.app/?username=marvinok26&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -171,6 +126,20 @@ macOS        3 hrs 5 mins    ██████░░░░░░░░░░░
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arvin_codes)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/okongo26)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/okongomarvin971)
+
+</div>
+
+---
+
+## 💼 Featured Projects
+
+<div align="center">
+
+| 🚀 **Crypto Site** | 🎨 **Marvin's Portfolio** |
+| --- | --- |
+| [![Crypto Site](https://github-readme-stats.vercel.app/api/pin/?username=marvinok26&repo=Crypto-site&theme=tokyonight&hide_border=true)](https://github.com/marvinok26/Crypto-site) | [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=marvinok26&repo=portfolio4&theme=tokyonight&hide_border=true)](https://github.com/marvinok26/portfolio4) |
+| 🌐 **[Live Demo](https://crypto-site-tau.vercel.app/)** | 🌐 **[Live Demo](https://marvin-portfolio-roan.vercel.app/)** |
+| A modern cryptocurrency tracking platform with real-time data and interactive charts | My personal portfolio showcasing projects, skills, and professional journey |
 
 </div>
 
