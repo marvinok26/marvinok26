@@ -122,11 +122,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Bash             3 hrs 33 mins   ████████░░░░░░░░░░░░░░░░░   31.98 %
-PHP              3 hrs 24 mins   ███████▓░░░░░░░░░░░░░░░░░   30.67 %
-JavaScript       2 hrs 18 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.73 %
-Markdown         1 hr 24 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.59 %
-Apache Config    13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+Bash             3 hrs 19 mins   ████████▓░░░░░░░░░░░░░░░░   34.87 %
+PHP              2 hrs 24 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.36 %
+JavaScript       2 hrs 17 mins   ██████░░░░░░░░░░░░░░░░░░░   24.12 %
+Markdown         1 hr 2 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.95 %
+Apache Config    13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
 ```
 
 <!--END_SECTION:waka-->
