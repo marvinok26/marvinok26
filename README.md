@@ -122,11 +122,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other            18 hrs 7 mins         ████████▓░░░░░░░░░░░░░░░░   34.72 %
-JavaScript       11 hrs 25 mins        █████▒░░░░░░░░░░░░░░░░░░░   21.89 %
-PHP              9 hrs 48 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.78 %
-Blade Template   4 hrs 32 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 %
-Bash             2 hrs 49 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
+Other            16 hrs 2 mins         ██████████░░░░░░░░░░░░░░░   40.56 %
+JavaScript       10 hrs 36 mins        ██████▓░░░░░░░░░░░░░░░░░░   26.80 %
+Blade Template   3 hrs 59 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.10 %
+PHP              3 hrs 42 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 %
+Bash             2 hrs 35 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
 ```
 
 <!--END_SECTION:waka-->
