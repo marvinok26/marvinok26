@@ -122,7 +122,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other   6 hrs 14 mins         █████████████████████████   100.00 %
+Other        11 hrs 56 mins        ████████████████████▒░░░░   81.01 %
+JavaScript   2 hrs 27 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.71 %
+Markdown     19 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+TypeScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+JSON         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
